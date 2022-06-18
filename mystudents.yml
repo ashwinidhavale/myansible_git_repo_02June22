@@ -1,0 +1,29 @@
+--- 
+- students:
+  - name: ashwini
+    phno: 478956245
+    address: 
+           dno: 567
+           street: 2nd 
+           pincode: 5657888
+
+  - name: sunil
+    phno: 47889956
+    address: 
+           dno: 567
+           street: 2nd 
+           pincode: 5657888
+
+  - name: sandhya
+    phno: 4589652365
+    address: 
+          dno: 567
+          street: 2nd 
+          pincode: 5657888
+
+  - name: amol
+    phno: 4589654896
+    address: 
+          dno: 567
+          street: 2nd 
+          pincode: 5657888
