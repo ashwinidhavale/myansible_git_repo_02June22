@@ -3,6 +3,6 @@
   become: yes #.sudo.apt-get install.apache2
   tasks:
    - name: install webserver
-  apt:  #by using apt module, we install any software on ubuntu only
-    name: apache2
-    state: present
+     apt:  #by using apt module, we install any software on ubuntu only
+      name: apache2
+      state: present
